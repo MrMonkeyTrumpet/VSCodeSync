@@ -1,0 +1,2 @@
+# VSCodeSync
+VSCode Sync Settings
