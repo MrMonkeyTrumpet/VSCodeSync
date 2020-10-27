@@ -2,7 +2,7 @@ const logTables = require('../db_apis/logtable.js');
  
 async function get(req, res, next) {
   try {
-    const context = {};
+    const context = {}; 
  
     context.id = parseInt(req.params.id, 10);
  
